@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+ My project will allow users to budget for events in their life. As expenses are added users will be able to see how much of their budget is left and/or how much they've gone over for the event. They will also be able to share the event with other user(s) so that the other person can participate in the budget or just view their progress.
+
+ I got the idea for this project as I was spending for the holidays. I was unsure how much I spent overall and if that was more than I cared to spend. This will be helpful not just for the holidays but celebratory events like birthdays and weddings.
 ### Features
-Include Features here
+ User login: Users will be able to create an account and log in to see their information.
+ Create Entries: Users will be able to add/modify/delete their events.
+ Share: Users will be able to share specific events with other user(s) allowing them read/write privelages.
 ### Technologies
-Include Technologies here
+ Java
+ Spring Boot
+ MySQL
+ Hibernate
+ Thymeleaf templates
+ JavaScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+ How to use Spring Security.
+ How to let users use their facebook account to sign up/login.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/gMRemTuU/liftoff-project
