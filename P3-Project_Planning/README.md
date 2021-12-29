@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- [liftoff-assignments/P3-Project_Planning/Wireframes/Share_Page.png](url)
+- [https://github.com/MinnieW/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes/Share_Page.png](url)
 - (../P3-Project_Planning/Wireframes/Specific_Event_Page.png)
 - (../P3-Project_Planning/Wireframes/Create_Event_Page.png)
 - (../P3-Project_Planning/Wireframes/User_Account_Page.png)
