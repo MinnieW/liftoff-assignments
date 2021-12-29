@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- [(../P3-Project_Planning/Wireframes/Share_Page.png)](url)
+- [(../tree/master/P3-Project_Planning/WireframesShare_Page.png)](url)
 - (../P3-Project_Planning/Wireframes/Specific_Event_Page.png)
 - (../P3-Project_Planning/Wireframes/Create_Event_Page.png)
 - (../P3-Project_Planning/Wireframes/User_Account_Page.png)
