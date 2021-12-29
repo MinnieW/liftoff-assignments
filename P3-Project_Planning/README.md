@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- (/P3-Project_Planning/Wireframes/Share_Page.png)
-- (/P3-Project_Planning/Wireframes/Specific_Event_Page.png)
-- (/P3-Project_Planning/Wireframes/Create_Event_Page.png)
-- (/P3-Project_Planning/Wireframes/User_Account_Page.png)
-- (/P3-Project_Planning/Wireframes/Create_User_Page.png)
-- (/P3-Project_Planning/Wireframes/Home_Page.png)
+- (../P3-Project_Planning/Wireframes/Share_Page.png)
+- (../P3-Project_Planning/Wireframes/Specific_Event_Page.png)
+- (../P3-Project_Planning/Wireframes/Create_Event_Page.png)
+- (../P3-Project_Planning/Wireframes/User_Account_Page.png)
+- (../P3-Project_Planning/Wireframes/Create_User_Page.png)
+- (../P3-Project_Planning/Wireframes/Home_Page.png)
 
 
 ### Project Tracker
